@@ -1,0 +1,3 @@
+venv
+model/*
+model/model_20class_20ep_lastest_v1.h5
